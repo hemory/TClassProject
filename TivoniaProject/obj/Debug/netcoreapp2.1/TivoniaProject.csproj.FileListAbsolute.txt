@@ -1,0 +1,11 @@
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\bin\Debug\netcoreapp2.1\TivoniaProject.deps.json
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\bin\Debug\netcoreapp2.1\TivoniaProject.runtimeconfig.json
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\bin\Debug\netcoreapp2.1\TivoniaProject.runtimeconfig.dev.json
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\bin\Debug\netcoreapp2.1\TivoniaProject.dll
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\bin\Debug\netcoreapp2.1\TivoniaProject.pdb
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\obj\Debug\netcoreapp2.1\TivoniaProject.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\obj\Debug\netcoreapp2.1\TivoniaProject.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\obj\Debug\netcoreapp2.1\TivoniaProject.AssemblyInfoInputs.cache
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\obj\Debug\netcoreapp2.1\TivoniaProject.AssemblyInfo.cs
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\obj\Debug\netcoreapp2.1\TivoniaProject.dll
+C:\Users\hphifer\source\repos\TivoniaProject\TivoniaProject\obj\Debug\netcoreapp2.1\TivoniaProject.pdb
